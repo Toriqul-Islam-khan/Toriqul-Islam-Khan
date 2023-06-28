@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/254422721_4178794775559473_4926738432705153523_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFIxCtyddFcHVJmgCSD8pjazFC4AMTFG1jMULgAxMUbWJvHuME7XiaxvuKvoFEwU_gwo11I78V1a9Wsg4XKfoOi&_nc_ohc=nLKv_KTmXI0AX9tEInk&_nc_ht=scontent.fdac11-2.fna&oh=00_AfD3N9kM161dQABngVXtR0tBDtu3xy5jpZaqnub29IC-PQ&oe=64A0986F)
+![Web Developer]([https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/254422721_4178794775559473_4926738432705153523_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFIxCtyddFcHVJmgCSD8pjazFC4AMTFG1jMULgAxMUbWJvHuME7XiaxvuKvoFEwU_gwo11I78V1a9Wsg4XKfoOi&_nc_ohc=nLKv_KTmXI0AX9tEInk&_nc_ht=scontent.fdac11-2.fna&oh=00_AfD3N9kM161dQABngVXtR0tBDtu3xy5jpZaqnub29IC-PQ&oe=64A0986F](https://o.remove.bg/uploads/3e5f9c24-b9f2-4fa3-8819-6e6809d3383b/DSC_0001-removebg-preview.png)
 
 # Hi there 👋, I am Toriqul Islam Khan
 #### Web Developer
